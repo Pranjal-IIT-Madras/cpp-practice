@@ -1,6 +1,6 @@
 # C++ Practice
 
-A collection of C++ programs, exercises, and problem-solving solutions documenting my journey from beginner concepts to Data Structures and Algorithms.
+A collection of C++ programs, exercises, and problem-solving solutions documenting my journey of learning C++.
 
 ---
 
@@ -17,45 +17,39 @@ cpp-practice/
 │   └── 05_name_and_age.cpp
 │
 ├── Conditionals/
-│   ├── even_odd.cpp
-│   ├── adult_minor.cpp
-│   └── grade_calculator.cpp
+│   ├── 01_adult_or_minor.cpp
+│   ├── 02_even_or_odd.cpp
+│   └── 03_grade_calculator.cpp
 │
 ├── Loops/
-│   ├── print_1_to_n.cpp
-│   ├── sum_1_to_n.cpp
-│   └── multiplication_table.cpp
+│   ├── 01_print_1_to_5.cpp
+│   ├── 02_print_1_to_n.cpp
+│   └── 03_sum_1_to_n.cpp
 │
 ├── Functions/
-│   ├── add_function.cpp
-│   ├── cube_function.cpp
-│   └── is_even_function.cpp
+│   ├── 01_add_function.cpp
+│   ├── 02_cube_function.cpp
+│   └── 03_is_even_function.cpp
 │
 ├── Arrays/
-│   ├── array_input_output.cpp
-│   ├── array_sum.cpp
-│   └── largest_element.cpp
+│   ├── 01_array_input_output.cpp
+│   ├── 02_array_sum.cpp
+│   └── 03_largest_element.cpp
 │
 ├── Strings/
-│   ├── string_length.cpp
-│   ├── count_vowels.cpp
-│   └── vertical_print.cpp
+│   ├── 01_string_length.cpp
+│   ├── 02_print_characters_vertically.cpp
+│   └── 03_count_vowels.cpp
 │
 ├── Matrices/
-│   ├── matrix_input_output.cpp
-│   ├── matrix_sum.cpp
-│   └── largest_matrix_element.cpp
+│   ├── 01_matrix_input_output.cpp
+│   ├── 02_matrix_sum.cpp
+│   └── 03_largest_matrix_element.cpp
 │
 ├── Vectors/
-│   ├── vector_input_output.cpp
-│   ├── vector_sum.cpp
-│   └── smallest_element.cpp
-│
-├── DSA_Foundations/
-│   ├── summation.cpp
-│   ├── maximum.cpp
-│   ├── minimum.cpp
-│   └── counting.cpp
+│   ├── 01_vector_input_output.cpp
+│   ├── 02_vector_sum.cpp
+│   └── 03_smallest_element.cpp
 │
 └── README.md
 ```
@@ -76,23 +70,37 @@ cpp-practice/
 | Functions | ✅ |
 | Arrays | ✅ |
 | Strings | ✅ |
-| 2D Arrays | ✅ |
+| 2D Arrays (Matrices) | ✅ |
 | Nested Loops | ✅ |
 | Vectors | ✅ |
 | Basic Algorithms | ✅ |
 
 ---
 
-## Topics Covered
+## Programs Added
 
-### 1. C++ Fundamentals ✅
+| Category | Programs |
+|-----------|----------:|
+| Basics | 5 |
+| Conditionals | 3 |
+| Loops | 3 |
+| Functions | 3 |
+| Arrays | 3 |
+| Strings | 3 |
+| Matrices | 3 |
+| Vectors | 3 |
+| **Total** | **26** |
 
+---
+
+## Concepts Learned
+
+### C++ Fundamentals
 - Program Structure
 - Input / Output
 - Multiple Inputs
 
-### 2. Variables & Data Types ✅
-
+### Variables & Data Types
 - `int`
 - `float`
 - `double`
@@ -100,22 +108,19 @@ cpp-practice/
 - `bool`
 - `string`
 
-### 3. Arithmetic Operators ✅
-
+### Arithmetic Operators
 - `+`
 - `-`
 - `*`
 - `/`
 - `%`
 
-### 4. Conditional Statements ✅
-
+### Conditional Statements
 - `if`
 - `if-else`
 - `else-if ladder`
 
-### 5. Comparison Operators ✅
-
+### Comparison Operators
 - `==`
 - `!=`
 - `>`
@@ -123,97 +128,55 @@ cpp-practice/
 - `>=`
 - `<=`
 
-### 6. Logical Operators 🚧
-
+### Logical Operators
 Completed:
-
 - `||`
 
-Remaining:
-
+Learning Next:
 - `&&`
 - `!`
 
-### 7. Loops ✅
+### Loops
+- `for`
+- `i++`
+- Nested Loops
 
-- `for` loop
-- Increment operator (`i++`)
-
-### 8. Functions ✅
-
+### Functions
 - Returning Functions
 - Void Functions
 - Boolean Functions
 
-### 9. Arrays ✅
-
-- Input and Output
+### Arrays
 - Traversal
 - Sum of Elements
 - Largest Element
 
-### 10. Strings ✅
-
+### Strings
 - Length
 - Indexing
 - Traversal
-- Character Comparison
 - Vowel Counting
 
-### 11. 2D Arrays (Matrices) ✅
-
-- Matrix Input
-- Matrix Output
+### Matrices
+- Matrix Input / Output
 - Matrix Sum
 - Largest Element
 
-### 12. Nested Loops ✅
-
-- Matrix Operations
-- Pattern-based Traversal
-
-### 13. Vectors ✅
-
-- Declaration
-- Input / Output
+### Vectors
+- Dynamic Arrays
 - Traversal
 - Sum of Elements
 - Smallest Element
-
-### 14. Basic Algorithms ✅
-
-- Summation
-- Maximum
-- Minimum
-- Counting
 
 ---
 
 ## Learning Goals
 
-- Build a strong foundation in C++
-- Master Object-Oriented Programming
-- Learn STL and Modern C++
-- Strengthen Data Structures & Algorithms skills
+- Strengthen C++ fundamentals
+- Learn Object-Oriented Programming
+- Master STL
+- Build strong DSA skills
 - Prepare for Competitive Programming
-- Develop skills for Unreal Engine Game Development
-
----
-
-## Upcoming Topics
-
-- `&&` and `!`
-- While Loops
-- Pointers
-- Object-Oriented Programming (OOP)
-- STL Containers
-- Searching Algorithms
-- Sorting Algorithms
-- Linked Lists
-- Stack
-- Queue
-- Trees
-- Graphs
 
 ---
 
@@ -223,8 +186,6 @@ Remaining:
 
 - B.Tech Computer Science Student
 - Learning C++
-- Exploring DSA
-
----
+- Exploring Data Structures & Algorithms
 
 ⭐ This repository is regularly updated as I continue learning and practicing C++.
