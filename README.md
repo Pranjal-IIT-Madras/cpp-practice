@@ -224,8 +224,6 @@ Remaining:
 - B.Tech Computer Science Student
 - Learning C++
 - Exploring DSA
-- Aspiring Game Developer
-- Future Unreal Engine Developer
 
 ---
 
